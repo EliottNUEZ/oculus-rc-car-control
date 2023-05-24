@@ -198,4 +198,4 @@ You can see that we don't use the protobuf folder in the execution of the projec
 
 Also note that you may have problems with the rc-control.py script if you don't use the same engine card because the communication protocols may be different.
 
-So we created a draft of an rc_control.py script named rc_control_2.py for the PCA 9685 engine boards which uses the i2c protocol.
+So we created a draft of an control_rc.py script named control_rc_2.py for the PCA 9685 engine boards which uses the i2c protocol.
